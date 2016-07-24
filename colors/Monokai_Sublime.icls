@@ -498,6 +498,12 @@
         <option name="BACKGROUND" value="33362e" />
       </value>
     </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="50a7be" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
