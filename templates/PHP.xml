@@ -1,7 +1,0 @@
-<templateSet group="PHP">
-  <template name="em" value="$em = $this-&gt;getDoctrine()-&gt;getManager();" description="$em = $this-&gt;getDoctrine()-&gt;getManager();" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
