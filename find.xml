@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
-    <option name="defaultScopeName" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
-    <option name="SEARCH_SCOPE" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
+    <option name="customScope" value="Directory '[lyzarna-bruslarna] - .../src/fs/frontend/FrontEndBundle/Form'" />
+    <option name="defaultScopeName" value="Directory '[lyzarna-bruslarna] - .../src/fs/frontend/FrontEndBundle/Form'" />
+    <option name="SEARCH_SCOPE" value="Directory '[lyzarna-bruslarna] - .../src/fs/frontend/FrontEndBundle/Form'" />
   </component>
 </application>
