@@ -3,5 +3,6 @@
     <option name="customScope" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
     <option name="defaultScopeName" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
     <option name="SEARCH_SCOPE" value="Directory '[multidomain-admin] - .../src/fs/admin'" />
+    <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
