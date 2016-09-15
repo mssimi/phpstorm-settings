@@ -58,6 +58,10 @@
           <option name="url" value="git@gitlab.dev.bitconsulting.cz:brounek/wolfgang.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:lexik/LexikMailerBundle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
