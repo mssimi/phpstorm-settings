@@ -1,4 +1,5 @@
 <scheme name="Monokai-Sublime" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -323,6 +324,12 @@
       <value>
         <option name="BACKGROUND" value="35362c" />
         <option name="EFFECT_COLOR" value="4a4848" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="BACKGROUND" value="494e43" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -681,6 +688,9 @@
       <value>
         <option name="FOREGROUND" value="75715e" />
       </value>
+    </option>
+    <option name="PHP_CONCATENATION">
+      <value />
     </option>
     <option name="PHP_CONSTANT">
       <value>
