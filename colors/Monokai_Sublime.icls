@@ -101,7 +101,9 @@
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="cb844e" />
+      </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
