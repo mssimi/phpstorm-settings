@@ -77,7 +77,7 @@
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="98a188" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
