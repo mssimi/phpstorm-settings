@@ -1251,6 +1251,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="TWIG_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="TWIG_OPERATION_SIGN">
+      <value />
+    </option>
     <option name="TYPEDEF">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
