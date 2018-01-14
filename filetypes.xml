@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="swf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
