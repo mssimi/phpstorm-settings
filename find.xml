@@ -15,13 +15,13 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
       <mask>*.tw</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.ph</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
+      <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
