@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.wolfgangstore" type="PLAIN_TEXT" />
       <mapping pattern=".env.mimiplus" type="PLAIN_TEXT" />
+      <mapping pattern=".env.siberica" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
