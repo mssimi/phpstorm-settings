@@ -4,8 +4,13 @@
       <mapping pattern=".env.admin" type="PLAIN_TEXT" />
       <mapping pattern=".env.wolfgangstore" type="PLAIN_TEXT" />
       <mapping pattern=".env.mimiplus" type="PLAIN_TEXT" />
+      <mapping pattern=".env.admin.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.siberica.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.siberica" type="PLAIN_TEXT" />
+      <mapping pattern=".env.wolfgangstore.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.itsmylife" type="PLAIN_TEXT" />
+      <mapping pattern=".env.itsmylife.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.mimiplus.dist" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
