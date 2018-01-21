@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".env.admin" type="PLAIN_TEXT" />
       <mapping pattern=".env.wolfgangstore" type="PLAIN_TEXT" />
       <mapping pattern=".env.mimiplus" type="PLAIN_TEXT" />
       <mapping pattern=".env.siberica" type="PLAIN_TEXT" />
