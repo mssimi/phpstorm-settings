@@ -110,6 +110,10 @@
           <option name="url" value="git@bitbucket.org:abledevelop/super-admin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yceruto/symfony-skeleton-vkernel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
