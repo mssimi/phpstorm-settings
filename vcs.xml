@@ -122,6 +122,10 @@
           <option name="url" value="git@github.com:SonOfSardaar/facebook-send-api-emulator.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spchuang/fb-local-chat-bot.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/www" />
