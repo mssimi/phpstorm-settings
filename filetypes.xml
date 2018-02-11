@@ -13,7 +13,6 @@
       <mapping pattern=".env.wolfgangstore.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env.mimiplus.dist" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="swf" type="PLAIN_TEXT" />
       <mapping pattern="*phpunit.xml.dist" type="XML" />
